@@ -1,0 +1,3 @@
+rep "Senior Capstone Project@quezadri@cloud"
+  path "/"
+    smartbranch "/main"

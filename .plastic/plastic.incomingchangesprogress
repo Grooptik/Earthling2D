@@ -1,0 +1,20 @@
+[
+  {
+    "MountId": "56e62dd7-241f-41e9-8c6b-dd4ca4513e62",
+    "AncestorCsetIds": [
+      106
+    ],
+    "SourceCsetId": 109,
+    "DestinationCsetId": 106,
+    "FileConflicts": [
+      {
+        "Path": "/Assets/Scenes/Levels/Level 4.unity",
+        "ItemId": 7647,
+        "ParentItemId": 7410,
+        "BaseRevId": 11949,
+        "SourceRevId": 11991,
+        "DestinationRevId": 11949
+      }
+    ]
+  }
+]
